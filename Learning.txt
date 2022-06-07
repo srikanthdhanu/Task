@@ -9,3 +9,7 @@ Hive
 
 Spark
 Scala
+AWS
+S2
+Elastic
+Azure
