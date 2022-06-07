@@ -1,0 +1,8 @@
+Welcome to the data engineer world
+
+Hadoop
+Hdfs
+Python
+S3
+Pig
+Hive
